@@ -5,4 +5,6 @@ do
 . ./installDL.sh 
 done
 
-
+gcc -o averageResult analysePro/averageResult.c
+./averageResult DLFinalresult.txt
+rm -f averageResult

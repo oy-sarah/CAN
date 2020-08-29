@@ -1,2 +1,0 @@
-CAN NanoXML_v5 fault3 rank::0,0.000000
-CAN NanoXML_v5 fault3 rank::0,0.000000

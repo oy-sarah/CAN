@@ -8,7 +8,7 @@ cp -r ${subject_dir}/result/v${version}/covMatrix.txt Coverage_Info
 cp -r ${subject_dir}/result/v${version}/error.txt Coverage_Info
 
 
-echo excuting python 1-2.py
+echo excuting python CAN.py
 python CAN.py dev
 
 echo moving DL_result.txt to result

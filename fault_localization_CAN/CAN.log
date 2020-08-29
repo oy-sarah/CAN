@@ -1,0 +1,859 @@
+2020-08-28 22:54:27 CAN.py[line:66] INFO get_config_file_name() return : dev.cfg
+2020-08-28 22:54:27 CAN.py[line:66] INFO get_config_file_name() return : dev.cfg
+2020-08-28 22:54:27 CAN.py[line:192] INFO We have 57 nodes.
+2020-08-28 22:54:27 CAN.py[line:193] INFO We have 94 edges.
+2020-08-28 22:54:27 CAN.py[line:66] INFO get_config_file_name() return : dev.cfg
+2020-08-28 22:54:29 CAN.py[line:252] INFO Epoch 0 | Loss: 0.1761
+2020-08-28 22:54:31 CAN.py[line:252] INFO Epoch 1 | Loss: 0.1597
+2020-08-28 22:54:33 CAN.py[line:252] INFO Epoch 2 | Loss: 0.1513
+2020-08-28 22:54:36 CAN.py[line:252] INFO Epoch 3 | Loss: 0.1412
+2020-08-28 22:54:38 CAN.py[line:252] INFO Epoch 4 | Loss: 0.1336
+2020-08-28 22:54:40 CAN.py[line:252] INFO Epoch 5 | Loss: 0.1280
+2020-08-28 22:54:42 CAN.py[line:252] INFO Epoch 6 | Loss: 0.1236
+2020-08-28 22:54:44 CAN.py[line:252] INFO Epoch 7 | Loss: 0.1209
+2020-08-28 22:54:46 CAN.py[line:252] INFO Epoch 8 | Loss: 0.1190
+2020-08-28 22:54:48 CAN.py[line:252] INFO Epoch 9 | Loss: 0.1187
+2020-08-28 22:54:50 CAN.py[line:252] INFO Epoch 10 | Loss: 0.1188
+2020-08-28 22:54:52 CAN.py[line:252] INFO Epoch 11 | Loss: 0.1193
+2020-08-28 22:54:55 CAN.py[line:252] INFO Epoch 12 | Loss: 0.1197
+2020-08-28 22:54:57 CAN.py[line:252] INFO Epoch 13 | Loss: 0.1200
+2020-08-28 22:54:59 CAN.py[line:252] INFO Epoch 14 | Loss: 0.1204
+2020-08-28 22:55:01 CAN.py[line:252] INFO Epoch 15 | Loss: 0.1209
+2020-08-28 22:55:03 CAN.py[line:252] INFO Epoch 16 | Loss: 0.1218
+2020-08-28 22:55:05 CAN.py[line:252] INFO Epoch 17 | Loss: 0.1217
+2020-08-28 22:55:07 CAN.py[line:252] INFO Epoch 18 | Loss: 0.1218
+2020-08-28 22:55:10 CAN.py[line:252] INFO Epoch 19 | Loss: 0.1219
+2020-08-28 22:55:11 CAN.py[line:66] INFO get_config_file_name() return : dev.cfg
+2020-08-28 22:55:11 CAN.py[line:66] INFO get_config_file_name() return : dev.cfg
+2020-08-28 22:55:11 CAN.py[line:192] INFO We have 57 nodes.
+2020-08-28 22:55:11 CAN.py[line:193] INFO We have 94 edges.
+2020-08-28 22:55:11 CAN.py[line:66] INFO get_config_file_name() return : dev.cfg
+2020-08-28 22:55:13 CAN.py[line:252] INFO Epoch 0 | Loss: 0.1672
+2020-08-28 22:55:15 CAN.py[line:252] INFO Epoch 1 | Loss: 0.1605
+2020-08-28 22:55:17 CAN.py[line:252] INFO Epoch 2 | Loss: 0.1572
+2020-08-28 22:55:20 CAN.py[line:252] INFO Epoch 3 | Loss: 0.1463
+2020-08-28 22:55:22 CAN.py[line:252] INFO Epoch 4 | Loss: 0.1324
+2020-08-28 22:55:24 CAN.py[line:252] INFO Epoch 5 | Loss: 0.1241
+2020-08-28 22:55:26 CAN.py[line:252] INFO Epoch 6 | Loss: 0.1208
+2020-08-28 22:55:28 CAN.py[line:252] INFO Epoch 7 | Loss: 0.1197
+2020-08-28 22:55:31 CAN.py[line:252] INFO Epoch 8 | Loss: 0.1196
+2020-08-28 22:55:33 CAN.py[line:252] INFO Epoch 9 | Loss: 0.1204
+2020-08-28 22:55:35 CAN.py[line:252] INFO Epoch 10 | Loss: 0.1209
+2020-08-28 22:55:37 CAN.py[line:252] INFO Epoch 11 | Loss: 0.1228
+2020-08-28 22:55:39 CAN.py[line:252] INFO Epoch 12 | Loss: 0.1226
+2020-08-28 22:55:41 CAN.py[line:252] INFO Epoch 13 | Loss: 0.1222
+2020-08-28 22:55:44 CAN.py[line:252] INFO Epoch 14 | Loss: 0.1237
+2020-08-28 22:55:46 CAN.py[line:252] INFO Epoch 15 | Loss: 0.1197
+2020-08-28 22:55:48 CAN.py[line:252] INFO Epoch 16 | Loss: 0.1242
+2020-08-28 22:55:50 CAN.py[line:252] INFO Epoch 17 | Loss: 0.1236
+2020-08-28 22:55:52 CAN.py[line:252] INFO Epoch 18 | Loss: 0.1234
+2020-08-28 22:55:55 CAN.py[line:252] INFO Epoch 19 | Loss: 0.1231
+2020-08-28 22:55:56 CAN.py[line:66] INFO get_config_file_name() return : dev.cfg
+2020-08-28 22:55:56 CAN.py[line:66] INFO get_config_file_name() return : dev.cfg
+2020-08-28 22:55:56 CAN.py[line:192] INFO We have 57 nodes.
+2020-08-28 22:55:56 CAN.py[line:193] INFO We have 94 edges.
+2020-08-28 22:55:56 CAN.py[line:66] INFO get_config_file_name() return : dev.cfg
+2020-08-28 22:55:58 CAN.py[line:252] INFO Epoch 0 | Loss: 0.1699
+2020-08-28 22:56:00 CAN.py[line:252] INFO Epoch 1 | Loss: 0.1602
+2020-08-28 22:56:02 CAN.py[line:252] INFO Epoch 2 | Loss: 0.1589
+2020-08-28 22:56:04 CAN.py[line:252] INFO Epoch 3 | Loss: 0.1566
+2020-08-28 22:56:06 CAN.py[line:252] INFO Epoch 4 | Loss: 0.1530
+2020-08-28 22:56:09 CAN.py[line:252] INFO Epoch 5 | Loss: 0.1462
+2020-08-28 22:56:11 CAN.py[line:252] INFO Epoch 6 | Loss: 0.1410
+2020-08-28 22:56:13 CAN.py[line:252] INFO Epoch 7 | Loss: 0.1338
+2020-08-28 22:56:15 CAN.py[line:252] INFO Epoch 8 | Loss: 0.1291
+2020-08-28 22:56:17 CAN.py[line:252] INFO Epoch 9 | Loss: 0.1261
+2020-08-28 22:56:19 CAN.py[line:252] INFO Epoch 10 | Loss: 0.1234
+2020-08-28 22:56:21 CAN.py[line:252] INFO Epoch 11 | Loss: 0.1207
+2020-08-28 22:56:23 CAN.py[line:252] INFO Epoch 12 | Loss: 0.1191
+2020-08-28 22:56:25 CAN.py[line:252] INFO Epoch 13 | Loss: 0.1183
+2020-08-28 22:56:28 CAN.py[line:252] INFO Epoch 14 | Loss: 0.1182
+2020-08-28 22:56:30 CAN.py[line:252] INFO Epoch 15 | Loss: 0.1177
+2020-08-28 22:56:32 CAN.py[line:252] INFO Epoch 16 | Loss: 0.1176
+2020-08-28 22:56:34 CAN.py[line:252] INFO Epoch 17 | Loss: 0.1176
+2020-08-28 22:56:36 CAN.py[line:252] INFO Epoch 18 | Loss: 0.1189
+2020-08-28 22:56:38 CAN.py[line:252] INFO Epoch 19 | Loss: 0.1188
+2020-08-28 22:56:39 CAN.py[line:66] INFO get_config_file_name() return : dev.cfg
+2020-08-28 22:56:39 CAN.py[line:66] INFO get_config_file_name() return : dev.cfg
+2020-08-28 22:56:39 CAN.py[line:192] INFO We have 57 nodes.
+2020-08-28 22:56:39 CAN.py[line:193] INFO We have 94 edges.
+2020-08-28 22:56:40 CAN.py[line:66] INFO get_config_file_name() return : dev.cfg
+2020-08-28 22:56:42 CAN.py[line:252] INFO Epoch 0 | Loss: 0.1698
+2020-08-28 23:17:59 CAN.py[line:66] INFO get_config_file_name() return : dev.cfg
+2020-08-28 23:17:59 CAN.py[line:66] INFO get_config_file_name() return : dev.cfg
+2020-08-28 23:17:59 CAN.py[line:192] INFO We have 57 nodes.
+2020-08-28 23:17:59 CAN.py[line:193] INFO We have 94 edges.
+2020-08-28 23:17:59 CAN.py[line:66] INFO get_config_file_name() return : dev.cfg
+2020-08-28 23:18:01 CAN.py[line:252] INFO Epoch 0 | Loss: 0.1758
+2020-08-28 23:18:03 CAN.py[line:252] INFO Epoch 1 | Loss: 0.1554
+2020-08-28 23:18:06 CAN.py[line:252] INFO Epoch 2 | Loss: 0.1451
+2020-08-28 23:18:08 CAN.py[line:252] INFO Epoch 3 | Loss: 0.1353
+2020-08-28 23:18:10 CAN.py[line:252] INFO Epoch 4 | Loss: 0.1287
+2020-08-28 23:18:12 CAN.py[line:252] INFO Epoch 5 | Loss: 0.1242
+2020-08-28 23:18:14 CAN.py[line:252] INFO Epoch 6 | Loss: 0.1207
+2020-08-28 23:18:17 CAN.py[line:252] INFO Epoch 7 | Loss: 0.1186
+2020-08-28 23:18:19 CAN.py[line:252] INFO Epoch 8 | Loss: 0.1185
+2020-08-28 23:18:21 CAN.py[line:252] INFO Epoch 9 | Loss: 0.1186
+2020-08-28 23:18:23 CAN.py[line:252] INFO Epoch 10 | Loss: 0.1189
+2020-08-28 23:18:26 CAN.py[line:252] INFO Epoch 11 | Loss: 0.1185
+2020-08-28 23:18:28 CAN.py[line:252] INFO Epoch 12 | Loss: 0.1201
+2020-08-28 23:18:30 CAN.py[line:252] INFO Epoch 13 | Loss: 0.1208
+2020-08-28 23:18:32 CAN.py[line:252] INFO Epoch 14 | Loss: 0.1212
+2020-08-28 23:18:35 CAN.py[line:252] INFO Epoch 15 | Loss: 0.1215
+2020-08-28 23:18:37 CAN.py[line:252] INFO Epoch 16 | Loss: 0.1224
+2020-08-28 23:18:39 CAN.py[line:252] INFO Epoch 17 | Loss: 0.1223
+2020-08-28 23:18:41 CAN.py[line:252] INFO Epoch 18 | Loss: 0.1224
+2020-08-28 23:18:43 CAN.py[line:252] INFO Epoch 19 | Loss: 0.1227
+2020-08-28 23:18:44 CAN.py[line:66] INFO get_config_file_name() return : dev.cfg
+2020-08-28 23:18:44 CAN.py[line:66] INFO get_config_file_name() return : dev.cfg
+2020-08-28 23:18:44 CAN.py[line:192] INFO We have 57 nodes.
+2020-08-28 23:18:44 CAN.py[line:193] INFO We have 94 edges.
+2020-08-28 23:18:45 CAN.py[line:66] INFO get_config_file_name() return : dev.cfg
+2020-08-28 23:18:47 CAN.py[line:252] INFO Epoch 0 | Loss: 0.1699
+2020-08-28 23:18:49 CAN.py[line:252] INFO Epoch 1 | Loss: 0.1540
+2020-08-28 23:18:51 CAN.py[line:252] INFO Epoch 2 | Loss: 0.1453
+2020-08-28 23:18:53 CAN.py[line:252] INFO Epoch 3 | Loss: 0.1372
+2020-08-28 23:18:55 CAN.py[line:252] INFO Epoch 4 | Loss: 0.1310
+2020-08-28 23:18:57 CAN.py[line:252] INFO Epoch 5 | Loss: 0.1268
+2020-08-28 23:18:59 CAN.py[line:252] INFO Epoch 6 | Loss: 0.1236
+2020-08-28 23:19:02 CAN.py[line:252] INFO Epoch 7 | Loss: 0.1209
+2020-08-28 23:19:04 CAN.py[line:252] INFO Epoch 8 | Loss: 0.1189
+2020-08-28 23:19:06 CAN.py[line:252] INFO Epoch 9 | Loss: 0.1177
+2020-08-28 23:19:08 CAN.py[line:252] INFO Epoch 10 | Loss: 0.1172
+2020-08-28 23:19:10 CAN.py[line:252] INFO Epoch 11 | Loss: 0.1170
+2020-08-28 23:19:12 CAN.py[line:252] INFO Epoch 12 | Loss: 0.1172
+2020-08-28 23:19:14 CAN.py[line:252] INFO Epoch 13 | Loss: 0.1173
+2020-08-28 23:19:17 CAN.py[line:252] INFO Epoch 14 | Loss: 0.1176
+2020-08-28 23:19:19 CAN.py[line:252] INFO Epoch 15 | Loss: 0.1180
+2020-08-28 23:19:21 CAN.py[line:252] INFO Epoch 16 | Loss: 0.1186
+2020-08-28 23:19:23 CAN.py[line:252] INFO Epoch 17 | Loss: 0.1189
+2020-08-28 23:19:25 CAN.py[line:252] INFO Epoch 18 | Loss: 0.1191
+2020-08-28 23:19:27 CAN.py[line:252] INFO Epoch 19 | Loss: 0.1193
+2020-08-28 23:19:28 CAN.py[line:66] INFO get_config_file_name() return : dev.cfg
+2020-08-28 23:19:28 CAN.py[line:66] INFO get_config_file_name() return : dev.cfg
+2020-08-28 23:19:28 CAN.py[line:192] INFO We have 57 nodes.
+2020-08-28 23:19:28 CAN.py[line:193] INFO We have 94 edges.
+2020-08-28 23:19:29 CAN.py[line:66] INFO get_config_file_name() return : dev.cfg
+2020-08-28 23:19:31 CAN.py[line:252] INFO Epoch 0 | Loss: 0.1661
+2020-08-28 23:19:33 CAN.py[line:252] INFO Epoch 1 | Loss: 0.1606
+2020-08-28 23:19:35 CAN.py[line:252] INFO Epoch 2 | Loss: 0.1564
+2020-08-28 23:19:37 CAN.py[line:252] INFO Epoch 3 | Loss: 0.1497
+2020-08-28 23:19:39 CAN.py[line:252] INFO Epoch 4 | Loss: 0.1433
+2020-08-28 23:19:41 CAN.py[line:252] INFO Epoch 5 | Loss: 0.1385
+2020-08-28 23:19:43 CAN.py[line:252] INFO Epoch 6 | Loss: 0.1348
+2020-08-28 23:19:45 CAN.py[line:252] INFO Epoch 7 | Loss: 0.1318
+2020-08-28 23:19:48 CAN.py[line:252] INFO Epoch 8 | Loss: 0.1294
+2020-08-28 23:19:50 CAN.py[line:252] INFO Epoch 9 | Loss: 0.1277
+2020-08-28 23:19:52 CAN.py[line:252] INFO Epoch 10 | Loss: 0.1266
+2020-08-28 23:19:54 CAN.py[line:252] INFO Epoch 11 | Loss: 0.1257
+2020-08-28 23:19:56 CAN.py[line:252] INFO Epoch 12 | Loss: 0.1247
+2020-08-28 23:19:58 CAN.py[line:252] INFO Epoch 13 | Loss: 0.1240
+2020-08-28 23:20:00 CAN.py[line:252] INFO Epoch 14 | Loss: 0.1229
+2020-08-28 23:20:02 CAN.py[line:252] INFO Epoch 15 | Loss: 0.1220
+2020-08-28 23:20:05 CAN.py[line:252] INFO Epoch 16 | Loss: 0.1207
+2020-08-28 23:20:07 CAN.py[line:252] INFO Epoch 17 | Loss: 0.1195
+2020-08-28 23:20:09 CAN.py[line:252] INFO Epoch 18 | Loss: 0.1189
+2020-08-28 23:20:11 CAN.py[line:252] INFO Epoch 19 | Loss: 0.1185
+2020-08-28 23:20:12 CAN.py[line:66] INFO get_config_file_name() return : dev.cfg
+2020-08-28 23:20:12 CAN.py[line:66] INFO get_config_file_name() return : dev.cfg
+2020-08-28 23:20:12 CAN.py[line:192] INFO We have 57 nodes.
+2020-08-28 23:20:12 CAN.py[line:193] INFO We have 94 edges.
+2020-08-28 23:20:12 CAN.py[line:66] INFO get_config_file_name() return : dev.cfg
+2020-08-28 23:20:14 CAN.py[line:252] INFO Epoch 0 | Loss: 0.1627
+2020-08-28 23:20:16 CAN.py[line:252] INFO Epoch 1 | Loss: 0.1583
+2020-08-28 23:20:19 CAN.py[line:252] INFO Epoch 2 | Loss: 0.1570
+2020-08-28 23:20:21 CAN.py[line:252] INFO Epoch 3 | Loss: 0.1553
+2020-08-28 23:20:23 CAN.py[line:252] INFO Epoch 4 | Loss: 0.1521
+2020-08-28 23:20:25 CAN.py[line:252] INFO Epoch 5 | Loss: 0.1469
+2020-08-28 23:20:27 CAN.py[line:252] INFO Epoch 6 | Loss: 0.1390
+2020-08-28 23:20:29 CAN.py[line:252] INFO Epoch 7 | Loss: 0.1313
+2020-08-28 23:20:31 CAN.py[line:252] INFO Epoch 8 | Loss: 0.1252
+2020-08-28 23:20:33 CAN.py[line:252] INFO Epoch 9 | Loss: 0.1215
+2020-08-28 23:20:36 CAN.py[line:252] INFO Epoch 10 | Loss: 0.1191
+2020-08-28 23:20:38 CAN.py[line:252] INFO Epoch 11 | Loss: 0.1187
+2020-08-28 23:20:40 CAN.py[line:252] INFO Epoch 12 | Loss: 0.1186
+2020-08-28 23:20:42 CAN.py[line:252] INFO Epoch 13 | Loss: 0.1188
+2020-08-28 23:20:44 CAN.py[line:252] INFO Epoch 14 | Loss: 0.1191
+2020-08-28 23:20:46 CAN.py[line:252] INFO Epoch 15 | Loss: 0.1194
+2020-08-28 23:20:48 CAN.py[line:252] INFO Epoch 16 | Loss: 0.1202
+2020-08-28 23:20:50 CAN.py[line:252] INFO Epoch 17 | Loss: 0.1203
+2020-08-28 23:20:52 CAN.py[line:252] INFO Epoch 18 | Loss: 0.1182
+2020-08-28 23:20:54 CAN.py[line:252] INFO Epoch 19 | Loss: 0.1205
+2020-08-28 23:20:55 CAN.py[line:66] INFO get_config_file_name() return : dev.cfg
+2020-08-28 23:20:55 CAN.py[line:66] INFO get_config_file_name() return : dev.cfg
+2020-08-28 23:20:55 CAN.py[line:192] INFO We have 57 nodes.
+2020-08-28 23:20:55 CAN.py[line:193] INFO We have 94 edges.
+2020-08-28 23:20:56 CAN.py[line:66] INFO get_config_file_name() return : dev.cfg
+2020-08-28 23:20:58 CAN.py[line:252] INFO Epoch 0 | Loss: 0.1722
+2020-08-28 23:21:00 CAN.py[line:252] INFO Epoch 1 | Loss: 0.1623
+2020-08-28 23:21:02 CAN.py[line:252] INFO Epoch 2 | Loss: 0.1572
+2020-08-28 23:21:04 CAN.py[line:252] INFO Epoch 3 | Loss: 0.1491
+2020-08-28 23:21:06 CAN.py[line:252] INFO Epoch 4 | Loss: 0.1385
+2020-08-28 23:21:08 CAN.py[line:252] INFO Epoch 5 | Loss: 0.1290
+2020-08-28 23:21:11 CAN.py[line:252] INFO Epoch 6 | Loss: 0.1232
+2020-08-28 23:21:13 CAN.py[line:252] INFO Epoch 7 | Loss: 0.1210
+2020-08-28 23:21:15 CAN.py[line:252] INFO Epoch 8 | Loss: 0.1202
+2020-08-28 23:21:17 CAN.py[line:252] INFO Epoch 9 | Loss: 0.1200
+2020-08-28 23:21:19 CAN.py[line:252] INFO Epoch 10 | Loss: 0.1189
+2020-08-28 23:21:21 CAN.py[line:252] INFO Epoch 11 | Loss: 0.1194
+2020-08-28 23:21:23 CAN.py[line:252] INFO Epoch 12 | Loss: 0.1194
+2020-08-28 23:21:25 CAN.py[line:252] INFO Epoch 13 | Loss: 0.1197
+2020-08-28 23:21:28 CAN.py[line:252] INFO Epoch 14 | Loss: 0.1198
+2020-08-28 23:21:30 CAN.py[line:252] INFO Epoch 15 | Loss: 0.1199
+2020-08-28 23:21:32 CAN.py[line:252] INFO Epoch 16 | Loss: 0.1206
+2020-08-28 23:21:34 CAN.py[line:252] INFO Epoch 17 | Loss: 0.1208
+2020-08-28 23:21:36 CAN.py[line:252] INFO Epoch 18 | Loss: 0.1208
+2020-08-28 23:21:38 CAN.py[line:252] INFO Epoch 19 | Loss: 0.1209
+2020-08-28 23:21:39 CAN.py[line:66] INFO get_config_file_name() return : dev.cfg
+2020-08-28 23:21:39 CAN.py[line:66] INFO get_config_file_name() return : dev.cfg
+2020-08-28 23:21:39 CAN.py[line:192] INFO We have 57 nodes.
+2020-08-28 23:21:39 CAN.py[line:193] INFO We have 94 edges.
+2020-08-28 23:21:40 CAN.py[line:66] INFO get_config_file_name() return : dev.cfg
+2020-08-28 23:21:42 CAN.py[line:252] INFO Epoch 0 | Loss: 0.1631
+2020-08-28 23:21:44 CAN.py[line:252] INFO Epoch 1 | Loss: 0.1577
+2020-08-28 23:21:46 CAN.py[line:252] INFO Epoch 2 | Loss: 0.1539
+2020-08-28 23:21:48 CAN.py[line:252] INFO Epoch 3 | Loss: 0.1479
+2020-08-28 23:21:50 CAN.py[line:252] INFO Epoch 4 | Loss: 0.1409
+2020-08-28 23:21:52 CAN.py[line:252] INFO Epoch 5 | Loss: 0.1346
+2020-08-28 23:21:54 CAN.py[line:252] INFO Epoch 6 | Loss: 0.1294
+2020-08-28 23:21:57 CAN.py[line:252] INFO Epoch 7 | Loss: 0.1253
+2020-08-28 23:21:59 CAN.py[line:252] INFO Epoch 8 | Loss: 0.1221
+2020-08-28 23:22:01 CAN.py[line:252] INFO Epoch 9 | Loss: 0.1197
+2020-08-28 23:22:03 CAN.py[line:252] INFO Epoch 10 | Loss: 0.1180
+2020-08-28 23:22:05 CAN.py[line:252] INFO Epoch 11 | Loss: 0.1175
+2020-08-28 23:22:07 CAN.py[line:252] INFO Epoch 12 | Loss: 0.1175
+2020-08-28 23:22:09 CAN.py[line:252] INFO Epoch 13 | Loss: 0.1178
+2020-08-28 23:22:11 CAN.py[line:252] INFO Epoch 14 | Loss: 0.1180
+2020-08-28 23:22:13 CAN.py[line:252] INFO Epoch 15 | Loss: 0.1185
+2020-08-28 23:22:16 CAN.py[line:252] INFO Epoch 16 | Loss: 0.1192
+2020-08-28 23:22:18 CAN.py[line:252] INFO Epoch 17 | Loss: 0.1189
+2020-08-28 23:22:20 CAN.py[line:252] INFO Epoch 18 | Loss: 0.1195
+2020-08-28 23:22:22 CAN.py[line:252] INFO Epoch 19 | Loss: 0.1195
+2020-08-28 23:22:23 CAN.py[line:66] INFO get_config_file_name() return : dev.cfg
+2020-08-28 23:22:23 CAN.py[line:66] INFO get_config_file_name() return : dev.cfg
+2020-08-28 23:22:23 CAN.py[line:192] INFO We have 57 nodes.
+2020-08-28 23:22:23 CAN.py[line:193] INFO We have 94 edges.
+2020-08-28 23:22:23 CAN.py[line:66] INFO get_config_file_name() return : dev.cfg
+2020-08-28 23:22:25 CAN.py[line:252] INFO Epoch 0 | Loss: 0.1692
+2020-08-28 23:22:27 CAN.py[line:252] INFO Epoch 1 | Loss: 0.1611
+2020-08-28 23:22:30 CAN.py[line:252] INFO Epoch 2 | Loss: 0.1548
+2020-08-28 23:22:32 CAN.py[line:252] INFO Epoch 3 | Loss: 0.1412
+2020-08-28 23:22:34 CAN.py[line:252] INFO Epoch 4 | Loss: 0.1310
+2020-08-28 23:22:36 CAN.py[line:252] INFO Epoch 5 | Loss: 0.1246
+2020-08-28 23:22:38 CAN.py[line:252] INFO Epoch 6 | Loss: 0.1211
+2020-08-28 23:22:40 CAN.py[line:252] INFO Epoch 7 | Loss: 0.1192
+2020-08-28 23:22:42 CAN.py[line:252] INFO Epoch 8 | Loss: 0.1182
+2020-08-28 23:22:44 CAN.py[line:252] INFO Epoch 9 | Loss: 0.1182
+2020-08-28 23:22:46 CAN.py[line:252] INFO Epoch 10 | Loss: 0.1185
+2020-08-28 23:22:49 CAN.py[line:252] INFO Epoch 11 | Loss: 0.1190
+2020-08-28 23:22:51 CAN.py[line:252] INFO Epoch 12 | Loss: 0.1195
+2020-08-28 23:22:53 CAN.py[line:252] INFO Epoch 13 | Loss: 0.1198
+2020-08-28 23:22:55 CAN.py[line:252] INFO Epoch 14 | Loss: 0.1202
+2020-08-28 23:22:57 CAN.py[line:252] INFO Epoch 15 | Loss: 0.1203
+2020-08-28 23:22:59 CAN.py[line:252] INFO Epoch 16 | Loss: 0.1212
+2020-08-28 23:23:01 CAN.py[line:252] INFO Epoch 17 | Loss: 0.1212
+2020-08-28 23:23:03 CAN.py[line:252] INFO Epoch 18 | Loss: 0.1213
+2020-08-28 23:23:05 CAN.py[line:252] INFO Epoch 19 | Loss: 0.1214
+2020-08-28 23:23:06 CAN.py[line:66] INFO get_config_file_name() return : dev.cfg
+2020-08-28 23:23:06 CAN.py[line:66] INFO get_config_file_name() return : dev.cfg
+2020-08-28 23:23:06 CAN.py[line:192] INFO We have 57 nodes.
+2020-08-28 23:23:06 CAN.py[line:193] INFO We have 94 edges.
+2020-08-28 23:23:07 CAN.py[line:66] INFO get_config_file_name() return : dev.cfg
+2020-08-28 23:23:09 CAN.py[line:252] INFO Epoch 0 | Loss: 0.1697
+2020-08-28 23:23:11 CAN.py[line:252] INFO Epoch 1 | Loss: 0.1601
+2020-08-28 23:23:13 CAN.py[line:252] INFO Epoch 2 | Loss: 0.1590
+2020-08-28 23:23:15 CAN.py[line:252] INFO Epoch 3 | Loss: 0.1575
+2020-08-28 23:23:17 CAN.py[line:252] INFO Epoch 4 | Loss: 0.1551
+2020-08-28 23:23:19 CAN.py[line:252] INFO Epoch 5 | Loss: 0.1509
+2020-08-28 23:23:22 CAN.py[line:252] INFO Epoch 6 | Loss: 0.1450
+2020-08-28 23:23:24 CAN.py[line:252] INFO Epoch 7 | Loss: 0.1374
+2020-08-28 23:23:26 CAN.py[line:252] INFO Epoch 8 | Loss: 0.1303
+2020-08-28 23:23:28 CAN.py[line:252] INFO Epoch 9 | Loss: 0.1251
+2020-08-28 23:23:30 CAN.py[line:252] INFO Epoch 10 | Loss: 0.1218
+2020-08-28 23:23:32 CAN.py[line:252] INFO Epoch 11 | Loss: 0.1190
+2020-08-28 23:23:34 CAN.py[line:252] INFO Epoch 12 | Loss: 0.1176
+2020-08-28 23:23:37 CAN.py[line:252] INFO Epoch 13 | Loss: 0.1169
+2020-08-28 23:23:39 CAN.py[line:252] INFO Epoch 14 | Loss: 0.1165
+2020-08-28 23:23:41 CAN.py[line:252] INFO Epoch 15 | Loss: 0.1163
+2020-08-28 23:23:43 CAN.py[line:252] INFO Epoch 16 | Loss: 0.1170
+2020-08-28 23:23:45 CAN.py[line:252] INFO Epoch 17 | Loss: 0.1176
+2020-08-28 23:23:47 CAN.py[line:252] INFO Epoch 18 | Loss: 0.1179
+2020-08-28 23:23:50 CAN.py[line:252] INFO Epoch 19 | Loss: 0.1183
+2020-08-28 23:23:51 CAN.py[line:66] INFO get_config_file_name() return : dev.cfg
+2020-08-28 23:23:51 CAN.py[line:66] INFO get_config_file_name() return : dev.cfg
+2020-08-28 23:23:51 CAN.py[line:192] INFO We have 57 nodes.
+2020-08-28 23:23:51 CAN.py[line:193] INFO We have 94 edges.
+2020-08-28 23:23:51 CAN.py[line:66] INFO get_config_file_name() return : dev.cfg
+2020-08-28 23:23:53 CAN.py[line:252] INFO Epoch 0 | Loss: 0.1765
+2020-08-28 23:23:55 CAN.py[line:252] INFO Epoch 1 | Loss: 0.1576
+2020-08-28 23:23:57 CAN.py[line:252] INFO Epoch 2 | Loss: 0.1429
+2020-08-28 23:23:59 CAN.py[line:252] INFO Epoch 3 | Loss: 0.1293
+2020-08-28 23:24:02 CAN.py[line:252] INFO Epoch 4 | Loss: 0.1216
+2020-08-28 23:24:04 CAN.py[line:252] INFO Epoch 5 | Loss: 0.1176
+2020-08-28 23:24:06 CAN.py[line:252] INFO Epoch 6 | Loss: 0.1191
+2020-08-28 23:24:08 CAN.py[line:252] INFO Epoch 7 | Loss: 0.1207
+2020-08-28 23:24:10 CAN.py[line:252] INFO Epoch 8 | Loss: 0.1195
+2020-08-28 23:24:12 CAN.py[line:252] INFO Epoch 9 | Loss: 0.1206
+2020-08-28 23:24:14 CAN.py[line:252] INFO Epoch 10 | Loss: 0.1217
+2020-08-28 23:24:16 CAN.py[line:252] INFO Epoch 11 | Loss: 0.1229
+2020-08-28 23:24:18 CAN.py[line:252] INFO Epoch 12 | Loss: 0.1235
+2020-08-28 23:24:21 CAN.py[line:252] INFO Epoch 13 | Loss: 0.1215
+2020-08-28 23:24:23 CAN.py[line:252] INFO Epoch 14 | Loss: 0.1229
+2020-08-28 23:24:25 CAN.py[line:252] INFO Epoch 15 | Loss: 0.1229
+2020-08-28 23:24:27 CAN.py[line:252] INFO Epoch 16 | Loss: 0.1243
+2020-08-28 23:24:29 CAN.py[line:252] INFO Epoch 17 | Loss: 0.1237
+2020-08-28 23:24:31 CAN.py[line:252] INFO Epoch 18 | Loss: 0.1212
+2020-08-28 23:24:33 CAN.py[line:252] INFO Epoch 19 | Loss: 0.1229
+2020-08-28 23:24:34 CAN.py[line:66] INFO get_config_file_name() return : dev.cfg
+2020-08-28 23:24:34 CAN.py[line:66] INFO get_config_file_name() return : dev.cfg
+2020-08-28 23:24:34 CAN.py[line:192] INFO We have 57 nodes.
+2020-08-28 23:24:34 CAN.py[line:193] INFO We have 94 edges.
+2020-08-28 23:24:35 CAN.py[line:66] INFO get_config_file_name() return : dev.cfg
+2020-08-28 23:24:37 CAN.py[line:252] INFO Epoch 0 | Loss: 0.1674
+2020-08-28 23:24:39 CAN.py[line:252] INFO Epoch 1 | Loss: 0.1591
+2020-08-28 23:24:41 CAN.py[line:252] INFO Epoch 2 | Loss: 0.1573
+2020-08-28 23:24:43 CAN.py[line:252] INFO Epoch 3 | Loss: 0.1501
+2020-08-28 23:24:45 CAN.py[line:252] INFO Epoch 4 | Loss: 0.1408
+2020-08-28 23:24:47 CAN.py[line:252] INFO Epoch 5 | Loss: 0.1309
+2020-08-28 23:24:50 CAN.py[line:252] INFO Epoch 6 | Loss: 0.1263
+2020-08-28 23:24:52 CAN.py[line:252] INFO Epoch 7 | Loss: 0.1227
+2020-08-28 23:24:54 CAN.py[line:252] INFO Epoch 8 | Loss: 0.1199
+2020-08-28 23:24:56 CAN.py[line:252] INFO Epoch 9 | Loss: 0.1176
+2020-08-28 23:24:58 CAN.py[line:252] INFO Epoch 10 | Loss: 0.1170
+2020-08-28 23:25:00 CAN.py[line:252] INFO Epoch 11 | Loss: 0.1173
+2020-08-28 23:25:03 CAN.py[line:252] INFO Epoch 12 | Loss: 0.1182
+2020-08-28 23:25:05 CAN.py[line:252] INFO Epoch 13 | Loss: 0.1189
+2020-08-28 23:25:07 CAN.py[line:252] INFO Epoch 14 | Loss: 0.1196
+2020-08-28 23:25:09 CAN.py[line:252] INFO Epoch 15 | Loss: 0.1207
+2020-08-28 23:25:11 CAN.py[line:252] INFO Epoch 16 | Loss: 0.1217
+2020-08-28 23:25:13 CAN.py[line:252] INFO Epoch 17 | Loss: 0.1215
+2020-08-28 23:25:15 CAN.py[line:252] INFO Epoch 18 | Loss: 0.1215
+2020-08-28 23:25:17 CAN.py[line:252] INFO Epoch 19 | Loss: 0.1216
+2020-08-28 23:30:49 CAN.py[line:66] INFO get_config_file_name() return : dev.cfg
+2020-08-28 23:30:49 CAN.py[line:66] INFO get_config_file_name() return : dev.cfg
+2020-08-28 23:30:49 CAN.py[line:192] INFO We have 57 nodes.
+2020-08-28 23:30:49 CAN.py[line:193] INFO We have 94 edges.
+2020-08-28 23:30:50 CAN.py[line:66] INFO get_config_file_name() return : dev.cfg
+2020-08-28 23:30:52 CAN.py[line:252] INFO Epoch 0 | Loss: 0.1697
+2020-08-28 23:30:54 CAN.py[line:252] INFO Epoch 1 | Loss: 0.1567
+2020-08-28 23:30:56 CAN.py[line:252] INFO Epoch 2 | Loss: 0.1480
+2020-08-28 23:30:58 CAN.py[line:252] INFO Epoch 3 | Loss: 0.1394
+2020-08-28 23:31:00 CAN.py[line:252] INFO Epoch 4 | Loss: 0.1310
+2020-08-28 23:31:03 CAN.py[line:252] INFO Epoch 5 | Loss: 0.1246
+2020-08-28 23:31:05 CAN.py[line:252] INFO Epoch 6 | Loss: 0.1203
+2020-08-28 23:31:07 CAN.py[line:252] INFO Epoch 7 | Loss: 0.1187
+2020-08-28 23:31:09 CAN.py[line:252] INFO Epoch 8 | Loss: 0.1183
+2020-08-28 23:31:11 CAN.py[line:252] INFO Epoch 9 | Loss: 0.1193
+2020-08-28 23:31:13 CAN.py[line:252] INFO Epoch 10 | Loss: 0.1202
+2020-08-28 23:31:15 CAN.py[line:252] INFO Epoch 11 | Loss: 0.1204
+2020-08-28 23:31:18 CAN.py[line:252] INFO Epoch 12 | Loss: 0.1200
+2020-08-28 23:31:20 CAN.py[line:252] INFO Epoch 13 | Loss: 0.1205
+2020-08-28 23:31:22 CAN.py[line:252] INFO Epoch 14 | Loss: 0.1215
+2020-08-28 23:31:24 CAN.py[line:252] INFO Epoch 15 | Loss: 0.1219
+2020-08-28 23:31:26 CAN.py[line:252] INFO Epoch 16 | Loss: 0.1222
+2020-08-28 23:31:28 CAN.py[line:252] INFO Epoch 17 | Loss: 0.1226
+2020-08-28 23:31:31 CAN.py[line:252] INFO Epoch 18 | Loss: 0.1219
+2020-08-28 23:31:33 CAN.py[line:252] INFO Epoch 19 | Loss: 0.1228
+2020-08-28 23:31:34 CAN.py[line:66] INFO get_config_file_name() return : dev.cfg
+2020-08-28 23:31:34 CAN.py[line:66] INFO get_config_file_name() return : dev.cfg
+2020-08-28 23:31:34 CAN.py[line:192] INFO We have 57 nodes.
+2020-08-28 23:31:34 CAN.py[line:193] INFO We have 94 edges.
+2020-08-28 23:31:34 CAN.py[line:66] INFO get_config_file_name() return : dev.cfg
+2020-08-28 23:31:36 CAN.py[line:252] INFO Epoch 0 | Loss: 0.1646
+2020-08-28 23:31:38 CAN.py[line:252] INFO Epoch 1 | Loss: 0.1574
+2020-08-28 23:31:40 CAN.py[line:252] INFO Epoch 2 | Loss: 0.1516
+2020-08-28 23:31:43 CAN.py[line:252] INFO Epoch 3 | Loss: 0.1378
+2020-08-28 23:31:45 CAN.py[line:252] INFO Epoch 4 | Loss: 0.1265
+2020-08-28 23:31:47 CAN.py[line:252] INFO Epoch 5 | Loss: 0.1213
+2020-08-28 23:31:49 CAN.py[line:252] INFO Epoch 6 | Loss: 0.1188
+2020-08-28 23:31:51 CAN.py[line:252] INFO Epoch 7 | Loss: 0.1180
+2020-08-28 23:31:53 CAN.py[line:252] INFO Epoch 8 | Loss: 0.1178
+2020-08-28 23:31:56 CAN.py[line:252] INFO Epoch 9 | Loss: 0.1180
+2020-08-28 23:31:58 CAN.py[line:252] INFO Epoch 10 | Loss: 0.1182
+2020-08-28 23:32:00 CAN.py[line:252] INFO Epoch 11 | Loss: 0.1188
+2020-08-28 23:32:02 CAN.py[line:252] INFO Epoch 12 | Loss: 0.1193
+2020-08-28 23:32:04 CAN.py[line:252] INFO Epoch 13 | Loss: 0.1196
+2020-08-28 23:32:06 CAN.py[line:252] INFO Epoch 14 | Loss: 0.1197
+2020-08-28 23:32:08 CAN.py[line:252] INFO Epoch 15 | Loss: 0.1203
+2020-08-28 23:32:11 CAN.py[line:252] INFO Epoch 16 | Loss: 0.1210
+2020-08-28 23:32:13 CAN.py[line:252] INFO Epoch 17 | Loss: 0.1211
+2020-08-28 23:32:15 CAN.py[line:252] INFO Epoch 18 | Loss: 0.1212
+2020-08-28 23:32:17 CAN.py[line:252] INFO Epoch 19 | Loss: 0.1213
+2020-08-28 23:32:18 CAN.py[line:66] INFO get_config_file_name() return : dev.cfg
+2020-08-28 23:32:18 CAN.py[line:66] INFO get_config_file_name() return : dev.cfg
+2020-08-28 23:32:18 CAN.py[line:192] INFO We have 57 nodes.
+2020-08-28 23:32:18 CAN.py[line:193] INFO We have 94 edges.
+2020-08-28 23:32:18 CAN.py[line:66] INFO get_config_file_name() return : dev.cfg
+2020-08-28 23:32:20 CAN.py[line:252] INFO Epoch 0 | Loss: 0.1736
+2020-08-28 23:32:22 CAN.py[line:252] INFO Epoch 1 | Loss: 0.1611
+2020-08-28 23:32:24 CAN.py[line:252] INFO Epoch 2 | Loss: 0.1574
+2020-08-28 23:32:27 CAN.py[line:252] INFO Epoch 3 | Loss: 0.1504
+2020-08-28 23:32:29 CAN.py[line:252] INFO Epoch 4 | Loss: 0.1421
+2020-08-28 23:32:31 CAN.py[line:252] INFO Epoch 5 | Loss: 0.1349
+2020-08-28 23:32:33 CAN.py[line:252] INFO Epoch 6 | Loss: 0.1297
+2020-08-28 23:32:35 CAN.py[line:252] INFO Epoch 7 | Loss: 0.1258
+2020-08-28 23:32:37 CAN.py[line:252] INFO Epoch 8 | Loss: 0.1223
+2020-08-28 23:32:39 CAN.py[line:252] INFO Epoch 9 | Loss: 0.1201
+2020-08-28 23:32:41 CAN.py[line:252] INFO Epoch 10 | Loss: 0.1186
+2020-08-28 23:32:43 CAN.py[line:252] INFO Epoch 11 | Loss: 0.1175
+2020-08-28 23:32:46 CAN.py[line:252] INFO Epoch 12 | Loss: 0.1176
+2020-08-28 23:32:48 CAN.py[line:252] INFO Epoch 13 | Loss: 0.1179
+2020-08-28 23:32:50 CAN.py[line:252] INFO Epoch 14 | Loss: 0.1184
+2020-08-28 23:32:52 CAN.py[line:252] INFO Epoch 15 | Loss: 0.1185
+2020-08-28 23:32:54 CAN.py[line:252] INFO Epoch 16 | Loss: 0.1198
+2020-08-28 23:32:56 CAN.py[line:252] INFO Epoch 17 | Loss: 0.1202
+2020-08-28 23:32:58 CAN.py[line:252] INFO Epoch 18 | Loss: 0.1205
+2020-08-28 23:33:00 CAN.py[line:252] INFO Epoch 19 | Loss: 0.1208
+2020-08-28 23:33:01 CAN.py[line:66] INFO get_config_file_name() return : dev.cfg
+2020-08-28 23:33:01 CAN.py[line:66] INFO get_config_file_name() return : dev.cfg
+2020-08-28 23:33:01 CAN.py[line:192] INFO We have 57 nodes.
+2020-08-28 23:33:01 CAN.py[line:193] INFO We have 94 edges.
+2020-08-28 23:33:01 CAN.py[line:66] INFO get_config_file_name() return : dev.cfg
+2020-08-28 23:33:04 CAN.py[line:252] INFO Epoch 0 | Loss: 0.1741
+2020-08-28 23:33:06 CAN.py[line:252] INFO Epoch 1 | Loss: 0.1626
+2020-08-28 23:33:08 CAN.py[line:252] INFO Epoch 2 | Loss: 0.1599
+2020-08-28 23:33:10 CAN.py[line:252] INFO Epoch 3 | Loss: 0.1565
+2020-08-28 23:33:12 CAN.py[line:252] INFO Epoch 4 | Loss: 0.1497
+2020-08-28 23:33:14 CAN.py[line:252] INFO Epoch 5 | Loss: 0.1422
+2020-08-28 23:33:16 CAN.py[line:252] INFO Epoch 6 | Loss: 0.1351
+2020-08-28 23:33:19 CAN.py[line:252] INFO Epoch 7 | Loss: 0.1295
+2020-08-28 23:33:21 CAN.py[line:252] INFO Epoch 8 | Loss: 0.1250
+2020-08-28 23:33:23 CAN.py[line:252] INFO Epoch 9 | Loss: 0.1212
+2020-08-28 23:33:25 CAN.py[line:252] INFO Epoch 10 | Loss: 0.1186
+2020-08-28 23:33:27 CAN.py[line:252] INFO Epoch 11 | Loss: 0.1173
+2020-08-28 23:33:29 CAN.py[line:252] INFO Epoch 12 | Loss: 0.1170
+2020-08-28 23:33:31 CAN.py[line:252] INFO Epoch 13 | Loss: 0.1173
+2020-08-28 23:33:34 CAN.py[line:252] INFO Epoch 14 | Loss: 0.1178
+2020-08-28 23:33:36 CAN.py[line:252] INFO Epoch 15 | Loss: 0.1181
+2020-08-28 23:33:38 CAN.py[line:252] INFO Epoch 16 | Loss: 0.1190
+2020-08-28 23:33:40 CAN.py[line:252] INFO Epoch 17 | Loss: 0.1193
+2020-08-28 23:33:42 CAN.py[line:252] INFO Epoch 18 | Loss: 0.1197
+2020-08-28 23:33:44 CAN.py[line:252] INFO Epoch 19 | Loss: 0.1196
+2020-08-28 23:33:45 CAN.py[line:66] INFO get_config_file_name() return : dev.cfg
+2020-08-28 23:33:45 CAN.py[line:66] INFO get_config_file_name() return : dev.cfg
+2020-08-28 23:33:45 CAN.py[line:192] INFO We have 57 nodes.
+2020-08-28 23:33:45 CAN.py[line:193] INFO We have 94 edges.
+2020-08-28 23:33:46 CAN.py[line:66] INFO get_config_file_name() return : dev.cfg
+2020-08-28 23:33:48 CAN.py[line:252] INFO Epoch 0 | Loss: 0.1626
+2020-08-28 23:33:50 CAN.py[line:252] INFO Epoch 1 | Loss: 0.1564
+2020-08-28 23:33:52 CAN.py[line:252] INFO Epoch 2 | Loss: 0.1542
+2020-08-29 09:19:42 CAN.py[line:66] INFO get_config_file_name() return : dev.cfg
+2020-08-29 09:19:42 CAN.py[line:66] INFO get_config_file_name() return : dev.cfg
+2020-08-29 09:19:43 CAN.py[line:192] INFO We have 57 nodes.
+2020-08-29 09:19:43 CAN.py[line:193] INFO We have 94 edges.
+2020-08-29 09:19:46 CAN.py[line:66] INFO get_config_file_name() return : dev.cfg
+2020-08-29 09:19:50 CAN.py[line:252] INFO Epoch 0 | Loss: 0.1711
+2020-08-29 09:19:52 CAN.py[line:252] INFO Epoch 1 | Loss: 0.1623
+2020-08-29 09:19:53 CAN.py[line:66] INFO get_config_file_name() return : dev.cfg
+2020-08-29 09:19:53 CAN.py[line:66] INFO get_config_file_name() return : dev.cfg
+2020-08-29 09:19:53 CAN.py[line:192] INFO We have 57 nodes.
+2020-08-29 09:19:53 CAN.py[line:193] INFO We have 94 edges.
+2020-08-29 09:19:54 CAN.py[line:66] INFO get_config_file_name() return : dev.cfg
+2020-08-29 09:19:56 CAN.py[line:252] INFO Epoch 0 | Loss: 0.1670
+2020-08-29 09:19:58 CAN.py[line:252] INFO Epoch 1 | Loss: 0.1577
+2020-08-29 09:19:59 CAN.py[line:66] INFO get_config_file_name() return : dev.cfg
+2020-08-29 09:19:59 CAN.py[line:66] INFO get_config_file_name() return : dev.cfg
+2020-08-29 09:19:59 CAN.py[line:192] INFO We have 57 nodes.
+2020-08-29 09:19:59 CAN.py[line:193] INFO We have 94 edges.
+2020-08-29 09:19:59 CAN.py[line:66] INFO get_config_file_name() return : dev.cfg
+2020-08-29 09:20:02 CAN.py[line:252] INFO Epoch 0 | Loss: 0.1716
+2020-08-29 09:20:04 CAN.py[line:252] INFO Epoch 1 | Loss: 0.1588
+2020-08-29 09:20:05 CAN.py[line:66] INFO get_config_file_name() return : dev.cfg
+2020-08-29 09:20:05 CAN.py[line:66] INFO get_config_file_name() return : dev.cfg
+2020-08-29 09:20:05 CAN.py[line:192] INFO We have 57 nodes.
+2020-08-29 09:20:05 CAN.py[line:193] INFO We have 94 edges.
+2020-08-29 09:20:05 CAN.py[line:66] INFO get_config_file_name() return : dev.cfg
+2020-08-29 09:20:07 CAN.py[line:252] INFO Epoch 0 | Loss: 0.1750
+2020-08-29 09:20:09 CAN.py[line:252] INFO Epoch 1 | Loss: 0.1618
+2020-08-29 09:20:10 CAN.py[line:66] INFO get_config_file_name() return : dev.cfg
+2020-08-29 09:20:10 CAN.py[line:66] INFO get_config_file_name() return : dev.cfg
+2020-08-29 09:20:10 CAN.py[line:192] INFO We have 57 nodes.
+2020-08-29 09:20:10 CAN.py[line:193] INFO We have 94 edges.
+2020-08-29 09:20:11 CAN.py[line:66] INFO get_config_file_name() return : dev.cfg
+2020-08-29 09:20:13 CAN.py[line:252] INFO Epoch 0 | Loss: 0.1780
+2020-08-29 09:20:15 CAN.py[line:252] INFO Epoch 1 | Loss: 0.1626
+2020-08-29 09:20:16 CAN.py[line:66] INFO get_config_file_name() return : dev.cfg
+2020-08-29 09:20:16 CAN.py[line:66] INFO get_config_file_name() return : dev.cfg
+2020-08-29 09:20:16 CAN.py[line:192] INFO We have 57 nodes.
+2020-08-29 09:20:16 CAN.py[line:193] INFO We have 94 edges.
+2020-08-29 09:20:16 CAN.py[line:66] INFO get_config_file_name() return : dev.cfg
+2020-08-29 09:20:19 CAN.py[line:252] INFO Epoch 0 | Loss: 0.1777
+2020-08-29 09:20:21 CAN.py[line:252] INFO Epoch 1 | Loss: 0.1625
+2020-08-29 09:20:22 CAN.py[line:66] INFO get_config_file_name() return : dev.cfg
+2020-08-29 09:20:22 CAN.py[line:66] INFO get_config_file_name() return : dev.cfg
+2020-08-29 09:20:22 CAN.py[line:192] INFO We have 57 nodes.
+2020-08-29 09:20:22 CAN.py[line:193] INFO We have 94 edges.
+2020-08-29 09:20:22 CAN.py[line:66] INFO get_config_file_name() return : dev.cfg
+2020-08-29 09:20:24 CAN.py[line:252] INFO Epoch 0 | Loss: 0.1698
+2020-08-29 09:20:26 CAN.py[line:252] INFO Epoch 1 | Loss: 0.1543
+2020-08-29 09:20:27 CAN.py[line:66] INFO get_config_file_name() return : dev.cfg
+2020-08-29 09:20:27 CAN.py[line:66] INFO get_config_file_name() return : dev.cfg
+2020-08-29 09:20:27 CAN.py[line:192] INFO We have 57 nodes.
+2020-08-29 09:20:27 CAN.py[line:193] INFO We have 94 edges.
+2020-08-29 09:20:28 CAN.py[line:66] INFO get_config_file_name() return : dev.cfg
+2020-08-29 09:20:30 CAN.py[line:252] INFO Epoch 0 | Loss: 0.1720
+2020-08-29 09:20:32 CAN.py[line:252] INFO Epoch 1 | Loss: 0.1596
+2020-08-29 09:20:33 CAN.py[line:66] INFO get_config_file_name() return : dev.cfg
+2020-08-29 09:20:33 CAN.py[line:66] INFO get_config_file_name() return : dev.cfg
+2020-08-29 09:20:33 CAN.py[line:192] INFO We have 57 nodes.
+2020-08-29 09:20:33 CAN.py[line:193] INFO We have 94 edges.
+2020-08-29 09:20:33 CAN.py[line:66] INFO get_config_file_name() return : dev.cfg
+2020-08-29 09:20:36 CAN.py[line:252] INFO Epoch 0 | Loss: 0.1696
+2020-08-29 09:20:38 CAN.py[line:252] INFO Epoch 1 | Loss: 0.1624
+2020-08-29 09:20:39 CAN.py[line:66] INFO get_config_file_name() return : dev.cfg
+2020-08-29 09:20:39 CAN.py[line:66] INFO get_config_file_name() return : dev.cfg
+2020-08-29 09:20:39 CAN.py[line:192] INFO We have 57 nodes.
+2020-08-29 09:20:39 CAN.py[line:193] INFO We have 94 edges.
+2020-08-29 09:20:39 CAN.py[line:66] INFO get_config_file_name() return : dev.cfg
+2020-08-29 09:20:41 CAN.py[line:252] INFO Epoch 0 | Loss: 0.1668
+2020-08-29 09:20:43 CAN.py[line:252] INFO Epoch 1 | Loss: 0.1593
+2020-08-29 09:23:34 CAN.py[line:66] INFO get_config_file_name() return : dev.cfg
+2020-08-29 09:23:34 CAN.py[line:66] INFO get_config_file_name() return : dev.cfg
+2020-08-29 09:23:34 CAN.py[line:192] INFO We have 57 nodes.
+2020-08-29 09:23:34 CAN.py[line:193] INFO We have 94 edges.
+2020-08-29 09:23:34 CAN.py[line:66] INFO get_config_file_name() return : dev.cfg
+2020-08-29 09:23:37 CAN.py[line:252] INFO Epoch 0 | Loss: 0.1697
+2020-08-29 09:23:39 CAN.py[line:252] INFO Epoch 1 | Loss: 0.1584
+2020-08-29 09:23:40 CAN.py[line:66] INFO get_config_file_name() return : dev.cfg
+2020-08-29 09:23:40 CAN.py[line:66] INFO get_config_file_name() return : dev.cfg
+2020-08-29 09:23:40 CAN.py[line:192] INFO We have 57 nodes.
+2020-08-29 09:23:40 CAN.py[line:193] INFO We have 94 edges.
+2020-08-29 09:23:40 CAN.py[line:66] INFO get_config_file_name() return : dev.cfg
+2020-08-29 09:23:42 CAN.py[line:252] INFO Epoch 0 | Loss: 0.1693
+2020-08-29 09:23:44 CAN.py[line:252] INFO Epoch 1 | Loss: 0.1596
+2020-08-29 09:23:45 CAN.py[line:66] INFO get_config_file_name() return : dev.cfg
+2020-08-29 09:23:45 CAN.py[line:66] INFO get_config_file_name() return : dev.cfg
+2020-08-29 09:23:45 CAN.py[line:192] INFO We have 57 nodes.
+2020-08-29 09:23:45 CAN.py[line:193] INFO We have 94 edges.
+2020-08-29 09:23:46 CAN.py[line:66] INFO get_config_file_name() return : dev.cfg
+2020-08-29 09:23:48 CAN.py[line:252] INFO Epoch 0 | Loss: 0.1714
+2020-08-29 09:23:50 CAN.py[line:252] INFO Epoch 1 | Loss: 0.1564
+2020-08-29 09:23:51 CAN.py[line:66] INFO get_config_file_name() return : dev.cfg
+2020-08-29 09:23:51 CAN.py[line:66] INFO get_config_file_name() return : dev.cfg
+2020-08-29 09:23:51 CAN.py[line:192] INFO We have 57 nodes.
+2020-08-29 09:23:51 CAN.py[line:193] INFO We have 94 edges.
+2020-08-29 09:23:51 CAN.py[line:66] INFO get_config_file_name() return : dev.cfg
+2020-08-29 09:23:53 CAN.py[line:252] INFO Epoch 0 | Loss: 0.1712
+2020-08-29 09:23:55 CAN.py[line:252] INFO Epoch 1 | Loss: 0.1590
+2020-08-29 09:23:56 CAN.py[line:66] INFO get_config_file_name() return : dev.cfg
+2020-08-29 09:23:56 CAN.py[line:66] INFO get_config_file_name() return : dev.cfg
+2020-08-29 09:23:56 CAN.py[line:192] INFO We have 57 nodes.
+2020-08-29 09:23:56 CAN.py[line:193] INFO We have 94 edges.
+2020-08-29 09:23:57 CAN.py[line:66] INFO get_config_file_name() return : dev.cfg
+2020-08-29 09:23:59 CAN.py[line:252] INFO Epoch 0 | Loss: 0.1712
+2020-08-29 09:24:01 CAN.py[line:252] INFO Epoch 1 | Loss: 0.1593
+2020-08-29 09:24:02 CAN.py[line:66] INFO get_config_file_name() return : dev.cfg
+2020-08-29 09:24:02 CAN.py[line:66] INFO get_config_file_name() return : dev.cfg
+2020-08-29 09:24:02 CAN.py[line:192] INFO We have 57 nodes.
+2020-08-29 09:24:02 CAN.py[line:193] INFO We have 94 edges.
+2020-08-29 09:24:02 CAN.py[line:66] INFO get_config_file_name() return : dev.cfg
+2020-08-29 09:24:04 CAN.py[line:252] INFO Epoch 0 | Loss: 0.1747
+2020-08-29 09:24:06 CAN.py[line:252] INFO Epoch 1 | Loss: 0.1616
+2020-08-29 09:24:07 CAN.py[line:66] INFO get_config_file_name() return : dev.cfg
+2020-08-29 09:24:07 CAN.py[line:66] INFO get_config_file_name() return : dev.cfg
+2020-08-29 09:24:07 CAN.py[line:192] INFO We have 57 nodes.
+2020-08-29 09:24:07 CAN.py[line:193] INFO We have 94 edges.
+2020-08-29 09:24:08 CAN.py[line:66] INFO get_config_file_name() return : dev.cfg
+2020-08-29 09:24:10 CAN.py[line:252] INFO Epoch 0 | Loss: 0.1728
+2020-08-29 09:24:12 CAN.py[line:252] INFO Epoch 1 | Loss: 0.1622
+2020-08-29 09:24:13 CAN.py[line:66] INFO get_config_file_name() return : dev.cfg
+2020-08-29 09:24:13 CAN.py[line:66] INFO get_config_file_name() return : dev.cfg
+2020-08-29 09:24:13 CAN.py[line:192] INFO We have 57 nodes.
+2020-08-29 09:24:13 CAN.py[line:193] INFO We have 94 edges.
+2020-08-29 09:24:13 CAN.py[line:66] INFO get_config_file_name() return : dev.cfg
+2020-08-29 09:24:15 CAN.py[line:252] INFO Epoch 0 | Loss: 0.1674
+2020-08-29 09:24:18 CAN.py[line:252] INFO Epoch 1 | Loss: 0.1597
+2020-08-29 09:24:19 CAN.py[line:66] INFO get_config_file_name() return : dev.cfg
+2020-08-29 09:24:19 CAN.py[line:66] INFO get_config_file_name() return : dev.cfg
+2020-08-29 09:24:19 CAN.py[line:192] INFO We have 57 nodes.
+2020-08-29 09:24:19 CAN.py[line:193] INFO We have 94 edges.
+2020-08-29 09:24:19 CAN.py[line:66] INFO get_config_file_name() return : dev.cfg
+2020-08-29 09:24:21 CAN.py[line:252] INFO Epoch 0 | Loss: 0.1612
+2020-08-29 09:24:23 CAN.py[line:252] INFO Epoch 1 | Loss: 0.1547
+2020-08-29 09:24:24 CAN.py[line:66] INFO get_config_file_name() return : dev.cfg
+2020-08-29 09:24:24 CAN.py[line:66] INFO get_config_file_name() return : dev.cfg
+2020-08-29 09:24:24 CAN.py[line:192] INFO We have 57 nodes.
+2020-08-29 09:24:24 CAN.py[line:193] INFO We have 94 edges.
+2020-08-29 09:24:24 CAN.py[line:66] INFO get_config_file_name() return : dev.cfg
+2020-08-29 09:24:26 CAN.py[line:252] INFO Epoch 0 | Loss: 0.1661
+2020-08-29 09:24:29 CAN.py[line:252] INFO Epoch 1 | Loss: 0.1550
+2020-08-29 09:28:13 CAN.py[line:66] INFO get_config_file_name() return : dev.cfg
+2020-08-29 09:28:13 CAN.py[line:66] INFO get_config_file_name() return : dev.cfg
+2020-08-29 09:28:13 CAN.py[line:192] INFO We have 57 nodes.
+2020-08-29 09:28:13 CAN.py[line:193] INFO We have 94 edges.
+2020-08-29 09:28:13 CAN.py[line:66] INFO get_config_file_name() return : dev.cfg
+2020-08-29 09:28:16 CAN.py[line:252] INFO Epoch 0 | Loss: 0.1706
+2020-08-29 09:28:18 CAN.py[line:252] INFO Epoch 1 | Loss: 0.1597
+2020-08-29 09:28:19 CAN.py[line:66] INFO get_config_file_name() return : dev.cfg
+2020-08-29 09:28:19 CAN.py[line:66] INFO get_config_file_name() return : dev.cfg
+2020-08-29 09:28:19 CAN.py[line:192] INFO We have 57 nodes.
+2020-08-29 09:28:19 CAN.py[line:193] INFO We have 94 edges.
+2020-08-29 09:28:19 CAN.py[line:66] INFO get_config_file_name() return : dev.cfg
+2020-08-29 09:28:21 CAN.py[line:252] INFO Epoch 0 | Loss: 0.1699
+2020-08-29 09:28:23 CAN.py[line:252] INFO Epoch 1 | Loss: 0.1594
+2020-08-29 09:28:24 CAN.py[line:66] INFO get_config_file_name() return : dev.cfg
+2020-08-29 09:28:24 CAN.py[line:66] INFO get_config_file_name() return : dev.cfg
+2020-08-29 09:28:24 CAN.py[line:192] INFO We have 57 nodes.
+2020-08-29 09:28:24 CAN.py[line:193] INFO We have 94 edges.
+2020-08-29 09:28:25 CAN.py[line:66] INFO get_config_file_name() return : dev.cfg
+2020-08-29 09:28:27 CAN.py[line:252] INFO Epoch 0 | Loss: 0.1689
+2020-08-29 09:28:29 CAN.py[line:252] INFO Epoch 1 | Loss: 0.1602
+2020-08-29 09:28:30 CAN.py[line:66] INFO get_config_file_name() return : dev.cfg
+2020-08-29 09:28:30 CAN.py[line:66] INFO get_config_file_name() return : dev.cfg
+2020-08-29 09:28:30 CAN.py[line:192] INFO We have 57 nodes.
+2020-08-29 09:28:30 CAN.py[line:193] INFO We have 94 edges.
+2020-08-29 09:28:30 CAN.py[line:66] INFO get_config_file_name() return : dev.cfg
+2020-08-29 09:28:32 CAN.py[line:252] INFO Epoch 0 | Loss: 0.1670
+2020-08-29 09:28:35 CAN.py[line:252] INFO Epoch 1 | Loss: 0.1558
+2020-08-29 09:28:35 CAN.py[line:66] INFO get_config_file_name() return : dev.cfg
+2020-08-29 09:28:35 CAN.py[line:66] INFO get_config_file_name() return : dev.cfg
+2020-08-29 09:28:35 CAN.py[line:192] INFO We have 57 nodes.
+2020-08-29 09:28:35 CAN.py[line:193] INFO We have 94 edges.
+2020-08-29 09:28:36 CAN.py[line:66] INFO get_config_file_name() return : dev.cfg
+2020-08-29 09:28:38 CAN.py[line:252] INFO Epoch 0 | Loss: 0.1650
+2020-08-29 09:28:40 CAN.py[line:252] INFO Epoch 1 | Loss: 0.1593
+2020-08-29 09:28:41 CAN.py[line:66] INFO get_config_file_name() return : dev.cfg
+2020-08-29 09:28:41 CAN.py[line:66] INFO get_config_file_name() return : dev.cfg
+2020-08-29 09:28:41 CAN.py[line:192] INFO We have 57 nodes.
+2020-08-29 09:28:41 CAN.py[line:193] INFO We have 94 edges.
+2020-08-29 09:28:41 CAN.py[line:66] INFO get_config_file_name() return : dev.cfg
+2020-08-29 09:28:43 CAN.py[line:252] INFO Epoch 0 | Loss: 0.1768
+2020-08-29 09:28:45 CAN.py[line:252] INFO Epoch 1 | Loss: 0.1642
+2020-08-29 09:28:46 CAN.py[line:66] INFO get_config_file_name() return : dev.cfg
+2020-08-29 09:28:46 CAN.py[line:66] INFO get_config_file_name() return : dev.cfg
+2020-08-29 09:28:46 CAN.py[line:192] INFO We have 57 nodes.
+2020-08-29 09:28:46 CAN.py[line:193] INFO We have 94 edges.
+2020-08-29 09:28:47 CAN.py[line:66] INFO get_config_file_name() return : dev.cfg
+2020-08-29 09:28:49 CAN.py[line:252] INFO Epoch 0 | Loss: 0.1653
+2020-08-29 09:28:51 CAN.py[line:252] INFO Epoch 1 | Loss: 0.1560
+2020-08-29 09:28:52 CAN.py[line:66] INFO get_config_file_name() return : dev.cfg
+2020-08-29 09:28:52 CAN.py[line:66] INFO get_config_file_name() return : dev.cfg
+2020-08-29 09:28:52 CAN.py[line:192] INFO We have 57 nodes.
+2020-08-29 09:28:52 CAN.py[line:193] INFO We have 94 edges.
+2020-08-29 09:28:52 CAN.py[line:66] INFO get_config_file_name() return : dev.cfg
+2020-08-29 09:28:55 CAN.py[line:252] INFO Epoch 0 | Loss: 0.1727
+2020-08-29 09:28:57 CAN.py[line:252] INFO Epoch 1 | Loss: 0.1589
+2020-08-29 09:28:58 CAN.py[line:66] INFO get_config_file_name() return : dev.cfg
+2020-08-29 09:28:58 CAN.py[line:66] INFO get_config_file_name() return : dev.cfg
+2020-08-29 09:28:58 CAN.py[line:192] INFO We have 57 nodes.
+2020-08-29 09:28:58 CAN.py[line:193] INFO We have 94 edges.
+2020-08-29 09:28:58 CAN.py[line:66] INFO get_config_file_name() return : dev.cfg
+2020-08-29 09:29:00 CAN.py[line:252] INFO Epoch 0 | Loss: 0.1617
+2020-08-29 09:29:02 CAN.py[line:252] INFO Epoch 1 | Loss: 0.1568
+2020-08-29 09:29:03 CAN.py[line:66] INFO get_config_file_name() return : dev.cfg
+2020-08-29 09:29:03 CAN.py[line:66] INFO get_config_file_name() return : dev.cfg
+2020-08-29 09:29:03 CAN.py[line:192] INFO We have 57 nodes.
+2020-08-29 09:29:03 CAN.py[line:193] INFO We have 94 edges.
+2020-08-29 09:29:04 CAN.py[line:66] INFO get_config_file_name() return : dev.cfg
+2020-08-29 09:29:06 CAN.py[line:252] INFO Epoch 0 | Loss: 0.1711
+2020-08-29 09:29:08 CAN.py[line:252] INFO Epoch 1 | Loss: 0.1570
+2020-08-29 09:35:04 CAN.py[line:66] INFO get_config_file_name() return : dev.cfg
+2020-08-29 09:35:04 CAN.py[line:66] INFO get_config_file_name() return : dev.cfg
+2020-08-29 09:35:04 CAN.py[line:192] INFO We have 57 nodes.
+2020-08-29 09:35:04 CAN.py[line:193] INFO We have 94 edges.
+2020-08-29 09:35:04 CAN.py[line:66] INFO get_config_file_name() return : dev.cfg
+2020-08-29 09:35:06 CAN.py[line:252] INFO Epoch 0 | Loss: 0.1775
+2020-08-29 09:35:08 CAN.py[line:252] INFO Epoch 1 | Loss: 0.1617
+2020-08-29 09:35:09 CAN.py[line:66] INFO get_config_file_name() return : dev.cfg
+2020-08-29 09:35:09 CAN.py[line:66] INFO get_config_file_name() return : dev.cfg
+2020-08-29 09:35:09 CAN.py[line:192] INFO We have 57 nodes.
+2020-08-29 09:35:09 CAN.py[line:193] INFO We have 94 edges.
+2020-08-29 09:35:10 CAN.py[line:66] INFO get_config_file_name() return : dev.cfg
+2020-08-29 09:35:12 CAN.py[line:252] INFO Epoch 0 | Loss: 0.1710
+2020-08-29 09:35:14 CAN.py[line:252] INFO Epoch 1 | Loss: 0.1573
+2020-08-29 09:35:15 CAN.py[line:66] INFO get_config_file_name() return : dev.cfg
+2020-08-29 09:35:15 CAN.py[line:66] INFO get_config_file_name() return : dev.cfg
+2020-08-29 09:35:15 CAN.py[line:192] INFO We have 57 nodes.
+2020-08-29 09:35:15 CAN.py[line:193] INFO We have 94 edges.
+2020-08-29 09:35:15 CAN.py[line:66] INFO get_config_file_name() return : dev.cfg
+2020-08-29 09:35:17 CAN.py[line:252] INFO Epoch 0 | Loss: 0.1692
+2020-08-29 09:35:20 CAN.py[line:252] INFO Epoch 1 | Loss: 0.1615
+2020-08-29 09:35:21 CAN.py[line:66] INFO get_config_file_name() return : dev.cfg
+2020-08-29 09:35:21 CAN.py[line:66] INFO get_config_file_name() return : dev.cfg
+2020-08-29 09:35:21 CAN.py[line:192] INFO We have 57 nodes.
+2020-08-29 09:35:21 CAN.py[line:193] INFO We have 94 edges.
+2020-08-29 09:35:21 CAN.py[line:66] INFO get_config_file_name() return : dev.cfg
+2020-08-29 09:35:23 CAN.py[line:252] INFO Epoch 0 | Loss: 0.1711
+2020-08-29 09:35:25 CAN.py[line:252] INFO Epoch 1 | Loss: 0.1584
+2020-08-29 09:35:26 CAN.py[line:66] INFO get_config_file_name() return : dev.cfg
+2020-08-29 09:35:26 CAN.py[line:66] INFO get_config_file_name() return : dev.cfg
+2020-08-29 09:35:26 CAN.py[line:192] INFO We have 57 nodes.
+2020-08-29 09:35:26 CAN.py[line:193] INFO We have 94 edges.
+2020-08-29 09:35:26 CAN.py[line:66] INFO get_config_file_name() return : dev.cfg
+2020-08-29 09:35:29 CAN.py[line:252] INFO Epoch 0 | Loss: 0.1701
+2020-08-29 09:35:31 CAN.py[line:252] INFO Epoch 1 | Loss: 0.1618
+2020-08-29 09:35:32 CAN.py[line:66] INFO get_config_file_name() return : dev.cfg
+2020-08-29 09:35:32 CAN.py[line:66] INFO get_config_file_name() return : dev.cfg
+2020-08-29 09:35:32 CAN.py[line:192] INFO We have 57 nodes.
+2020-08-29 09:35:32 CAN.py[line:193] INFO We have 94 edges.
+2020-08-29 09:35:32 CAN.py[line:66] INFO get_config_file_name() return : dev.cfg
+2020-08-29 09:35:34 CAN.py[line:252] INFO Epoch 0 | Loss: 0.1602
+2020-08-29 09:35:37 CAN.py[line:252] INFO Epoch 1 | Loss: 0.1570
+2020-08-29 09:35:38 CAN.py[line:66] INFO get_config_file_name() return : dev.cfg
+2020-08-29 09:35:38 CAN.py[line:66] INFO get_config_file_name() return : dev.cfg
+2020-08-29 09:35:38 CAN.py[line:192] INFO We have 57 nodes.
+2020-08-29 09:35:38 CAN.py[line:193] INFO We have 94 edges.
+2020-08-29 09:35:38 CAN.py[line:66] INFO get_config_file_name() return : dev.cfg
+2020-08-29 09:35:40 CAN.py[line:252] INFO Epoch 0 | Loss: 0.1629
+2020-08-29 09:35:42 CAN.py[line:252] INFO Epoch 1 | Loss: 0.1589
+2020-08-29 09:35:44 CAN.py[line:66] INFO get_config_file_name() return : dev.cfg
+2020-08-29 09:35:44 CAN.py[line:66] INFO get_config_file_name() return : dev.cfg
+2020-08-29 09:35:44 CAN.py[line:192] INFO We have 57 nodes.
+2020-08-29 09:35:44 CAN.py[line:193] INFO We have 94 edges.
+2020-08-29 09:35:44 CAN.py[line:66] INFO get_config_file_name() return : dev.cfg
+2020-08-29 09:35:46 CAN.py[line:252] INFO Epoch 0 | Loss: 0.1598
+2020-08-29 09:35:48 CAN.py[line:252] INFO Epoch 1 | Loss: 0.1594
+2020-08-29 09:35:49 CAN.py[line:66] INFO get_config_file_name() return : dev.cfg
+2020-08-29 09:35:49 CAN.py[line:66] INFO get_config_file_name() return : dev.cfg
+2020-08-29 09:35:49 CAN.py[line:192] INFO We have 57 nodes.
+2020-08-29 09:35:49 CAN.py[line:193] INFO We have 94 edges.
+2020-08-29 09:35:50 CAN.py[line:66] INFO get_config_file_name() return : dev.cfg
+2020-08-29 09:35:52 CAN.py[line:252] INFO Epoch 0 | Loss: 0.1656
+2020-08-29 09:35:54 CAN.py[line:252] INFO Epoch 1 | Loss: 0.1587
+2020-08-29 09:35:55 CAN.py[line:66] INFO get_config_file_name() return : dev.cfg
+2020-08-29 09:35:55 CAN.py[line:66] INFO get_config_file_name() return : dev.cfg
+2020-08-29 09:35:55 CAN.py[line:192] INFO We have 57 nodes.
+2020-08-29 09:35:55 CAN.py[line:193] INFO We have 94 edges.
+2020-08-29 09:35:55 CAN.py[line:66] INFO get_config_file_name() return : dev.cfg
+2020-08-29 09:35:58 CAN.py[line:252] INFO Epoch 0 | Loss: 0.1657
+2020-08-29 09:36:00 CAN.py[line:252] INFO Epoch 1 | Loss: 0.1606
+2020-08-29 09:50:31 CAN.py[line:66] INFO get_config_file_name() return : dev.cfg
+2020-08-29 09:50:31 CAN.py[line:66] INFO get_config_file_name() return : dev.cfg
+2020-08-29 09:50:31 CAN.py[line:192] INFO We have 57 nodes.
+2020-08-29 09:50:31 CAN.py[line:193] INFO We have 94 edges.
+2020-08-29 09:50:31 CAN.py[line:66] INFO get_config_file_name() return : dev.cfg
+2020-08-29 09:50:34 CAN.py[line:252] INFO Epoch 0 | Loss: 0.1712
+2020-08-29 09:50:36 CAN.py[line:252] INFO Epoch 1 | Loss: 0.1597
+2020-08-29 09:50:37 CAN.py[line:66] INFO get_config_file_name() return : dev.cfg
+2020-08-29 09:50:37 CAN.py[line:66] INFO get_config_file_name() return : dev.cfg
+2020-08-29 09:50:37 CAN.py[line:192] INFO We have 57 nodes.
+2020-08-29 09:50:37 CAN.py[line:193] INFO We have 94 edges.
+2020-08-29 09:50:37 CAN.py[line:66] INFO get_config_file_name() return : dev.cfg
+2020-08-29 09:50:39 CAN.py[line:252] INFO Epoch 0 | Loss: 0.1653
+2020-08-29 09:50:41 CAN.py[line:252] INFO Epoch 1 | Loss: 0.1580
+2020-08-29 09:50:42 CAN.py[line:66] INFO get_config_file_name() return : dev.cfg
+2020-08-29 09:50:42 CAN.py[line:66] INFO get_config_file_name() return : dev.cfg
+2020-08-29 09:50:42 CAN.py[line:192] INFO We have 57 nodes.
+2020-08-29 09:50:42 CAN.py[line:193] INFO We have 94 edges.
+2020-08-29 09:50:43 CAN.py[line:66] INFO get_config_file_name() return : dev.cfg
+2020-08-29 09:50:45 CAN.py[line:252] INFO Epoch 0 | Loss: 0.1691
+2020-08-29 09:50:47 CAN.py[line:252] INFO Epoch 1 | Loss: 0.1548
+2020-08-29 09:50:48 CAN.py[line:66] INFO get_config_file_name() return : dev.cfg
+2020-08-29 09:50:48 CAN.py[line:66] INFO get_config_file_name() return : dev.cfg
+2020-08-29 09:50:48 CAN.py[line:192] INFO We have 57 nodes.
+2020-08-29 09:50:48 CAN.py[line:193] INFO We have 94 edges.
+2020-08-29 09:50:48 CAN.py[line:66] INFO get_config_file_name() return : dev.cfg
+2020-08-29 09:50:50 CAN.py[line:252] INFO Epoch 0 | Loss: 0.1732
+2020-08-29 09:50:52 CAN.py[line:252] INFO Epoch 1 | Loss: 0.1626
+2020-08-29 09:50:53 CAN.py[line:66] INFO get_config_file_name() return : dev.cfg
+2020-08-29 09:50:53 CAN.py[line:66] INFO get_config_file_name() return : dev.cfg
+2020-08-29 09:50:53 CAN.py[line:192] INFO We have 57 nodes.
+2020-08-29 09:50:53 CAN.py[line:193] INFO We have 94 edges.
+2020-08-29 09:50:54 CAN.py[line:66] INFO get_config_file_name() return : dev.cfg
+2020-08-29 09:50:56 CAN.py[line:252] INFO Epoch 0 | Loss: 0.1833
+2020-08-29 09:50:58 CAN.py[line:252] INFO Epoch 1 | Loss: 0.1622
+2020-08-29 09:50:59 CAN.py[line:66] INFO get_config_file_name() return : dev.cfg
+2020-08-29 09:50:59 CAN.py[line:66] INFO get_config_file_name() return : dev.cfg
+2020-08-29 09:50:59 CAN.py[line:192] INFO We have 57 nodes.
+2020-08-29 09:50:59 CAN.py[line:193] INFO We have 94 edges.
+2020-08-29 09:50:59 CAN.py[line:66] INFO get_config_file_name() return : dev.cfg
+2020-08-29 09:51:01 CAN.py[line:252] INFO Epoch 0 | Loss: 0.1701
+2020-08-29 09:51:03 CAN.py[line:252] INFO Epoch 1 | Loss: 0.1598
+2020-08-29 09:51:04 CAN.py[line:66] INFO get_config_file_name() return : dev.cfg
+2020-08-29 09:51:04 CAN.py[line:66] INFO get_config_file_name() return : dev.cfg
+2020-08-29 09:51:04 CAN.py[line:192] INFO We have 57 nodes.
+2020-08-29 09:51:04 CAN.py[line:193] INFO We have 94 edges.
+2020-08-29 09:51:05 CAN.py[line:66] INFO get_config_file_name() return : dev.cfg
+2020-08-29 09:51:07 CAN.py[line:252] INFO Epoch 0 | Loss: 0.1741
+2020-08-29 09:51:09 CAN.py[line:252] INFO Epoch 1 | Loss: 0.1601
+2020-08-29 09:51:10 CAN.py[line:66] INFO get_config_file_name() return : dev.cfg
+2020-08-29 09:51:10 CAN.py[line:66] INFO get_config_file_name() return : dev.cfg
+2020-08-29 09:51:10 CAN.py[line:192] INFO We have 57 nodes.
+2020-08-29 09:51:10 CAN.py[line:193] INFO We have 94 edges.
+2020-08-29 09:51:10 CAN.py[line:66] INFO get_config_file_name() return : dev.cfg
+2020-08-29 09:51:12 CAN.py[line:252] INFO Epoch 0 | Loss: 0.1611
+2020-08-29 09:51:14 CAN.py[line:252] INFO Epoch 1 | Loss: 0.1567
+2020-08-29 09:51:15 CAN.py[line:66] INFO get_config_file_name() return : dev.cfg
+2020-08-29 09:51:15 CAN.py[line:66] INFO get_config_file_name() return : dev.cfg
+2020-08-29 09:51:15 CAN.py[line:192] INFO We have 57 nodes.
+2020-08-29 09:51:15 CAN.py[line:193] INFO We have 94 edges.
+2020-08-29 09:51:16 CAN.py[line:66] INFO get_config_file_name() return : dev.cfg
+2020-08-29 09:51:18 CAN.py[line:252] INFO Epoch 0 | Loss: 0.1764
+2020-08-29 09:51:20 CAN.py[line:252] INFO Epoch 1 | Loss: 0.1549
+2020-08-29 09:51:21 CAN.py[line:66] INFO get_config_file_name() return : dev.cfg
+2020-08-29 09:51:21 CAN.py[line:66] INFO get_config_file_name() return : dev.cfg
+2020-08-29 09:51:21 CAN.py[line:192] INFO We have 57 nodes.
+2020-08-29 09:51:21 CAN.py[line:193] INFO We have 94 edges.
+2020-08-29 09:51:21 CAN.py[line:66] INFO get_config_file_name() return : dev.cfg
+2020-08-29 09:51:23 CAN.py[line:252] INFO Epoch 0 | Loss: 0.1756
+2020-08-29 09:51:25 CAN.py[line:252] INFO Epoch 1 | Loss: 0.1580
+2020-08-29 10:11:28 CAN.py[line:66] INFO get_config_file_name() return : dev.cfg
+2020-08-29 10:11:28 CAN.py[line:66] INFO get_config_file_name() return : dev.cfg
+2020-08-29 10:11:28 CAN.py[line:192] INFO We have 57 nodes.
+2020-08-29 10:11:28 CAN.py[line:193] INFO We have 94 edges.
+2020-08-29 10:11:28 CAN.py[line:66] INFO get_config_file_name() return : dev.cfg
+2020-08-29 10:11:31 CAN.py[line:252] INFO Epoch 0 | Loss: 0.1661
+2020-08-29 10:11:33 CAN.py[line:252] INFO Epoch 1 | Loss: 0.1597
+2020-08-29 10:11:34 CAN.py[line:66] INFO get_config_file_name() return : dev.cfg
+2020-08-29 10:11:34 CAN.py[line:66] INFO get_config_file_name() return : dev.cfg
+2020-08-29 10:11:34 CAN.py[line:192] INFO We have 57 nodes.
+2020-08-29 10:11:34 CAN.py[line:193] INFO We have 94 edges.
+2020-08-29 10:11:34 CAN.py[line:66] INFO get_config_file_name() return : dev.cfg
+2020-08-29 10:11:36 CAN.py[line:252] INFO Epoch 0 | Loss: 0.1726
+2020-08-29 10:11:38 CAN.py[line:252] INFO Epoch 1 | Loss: 0.1649
+2020-08-29 10:11:39 CAN.py[line:66] INFO get_config_file_name() return : dev.cfg
+2020-08-29 10:11:39 CAN.py[line:66] INFO get_config_file_name() return : dev.cfg
+2020-08-29 10:11:39 CAN.py[line:192] INFO We have 57 nodes.
+2020-08-29 10:11:39 CAN.py[line:193] INFO We have 94 edges.
+2020-08-29 10:11:40 CAN.py[line:66] INFO get_config_file_name() return : dev.cfg
+2020-08-29 10:11:42 CAN.py[line:252] INFO Epoch 0 | Loss: 0.1677
+2020-08-29 10:11:44 CAN.py[line:252] INFO Epoch 1 | Loss: 0.1590
+2020-08-29 10:11:45 CAN.py[line:66] INFO get_config_file_name() return : dev.cfg
+2020-08-29 10:11:45 CAN.py[line:66] INFO get_config_file_name() return : dev.cfg
+2020-08-29 10:11:45 CAN.py[line:192] INFO We have 57 nodes.
+2020-08-29 10:11:45 CAN.py[line:193] INFO We have 94 edges.
+2020-08-29 10:11:46 CAN.py[line:66] INFO get_config_file_name() return : dev.cfg
+2020-08-29 10:11:48 CAN.py[line:252] INFO Epoch 0 | Loss: 0.1693
+2020-08-29 10:11:50 CAN.py[line:252] INFO Epoch 1 | Loss: 0.1591
+2020-08-29 10:11:51 CAN.py[line:66] INFO get_config_file_name() return : dev.cfg
+2020-08-29 10:11:51 CAN.py[line:66] INFO get_config_file_name() return : dev.cfg
+2020-08-29 10:11:51 CAN.py[line:192] INFO We have 57 nodes.
+2020-08-29 10:11:51 CAN.py[line:193] INFO We have 94 edges.
+2020-08-29 10:11:51 CAN.py[line:66] INFO get_config_file_name() return : dev.cfg
+2020-08-29 10:11:54 CAN.py[line:252] INFO Epoch 0 | Loss: 0.1699
+2020-08-29 10:11:56 CAN.py[line:252] INFO Epoch 1 | Loss: 0.1576
+2020-08-29 10:11:57 CAN.py[line:66] INFO get_config_file_name() return : dev.cfg
+2020-08-29 10:11:57 CAN.py[line:66] INFO get_config_file_name() return : dev.cfg
+2020-08-29 10:11:57 CAN.py[line:192] INFO We have 57 nodes.
+2020-08-29 10:11:57 CAN.py[line:193] INFO We have 94 edges.
+2020-08-29 10:11:57 CAN.py[line:66] INFO get_config_file_name() return : dev.cfg
+2020-08-29 10:11:59 CAN.py[line:252] INFO Epoch 0 | Loss: 0.1740
+2020-08-29 10:12:02 CAN.py[line:252] INFO Epoch 1 | Loss: 0.1615
+2020-08-29 10:12:03 CAN.py[line:66] INFO get_config_file_name() return : dev.cfg
+2020-08-29 10:12:03 CAN.py[line:66] INFO get_config_file_name() return : dev.cfg
+2020-08-29 10:12:03 CAN.py[line:192] INFO We have 57 nodes.
+2020-08-29 10:12:03 CAN.py[line:193] INFO We have 94 edges.
+2020-08-29 10:12:03 CAN.py[line:66] INFO get_config_file_name() return : dev.cfg
+2020-08-29 10:12:05 CAN.py[line:252] INFO Epoch 0 | Loss: 0.1706
+2020-08-29 10:12:07 CAN.py[line:252] INFO Epoch 1 | Loss: 0.1604
+2020-08-29 10:12:08 CAN.py[line:66] INFO get_config_file_name() return : dev.cfg
+2020-08-29 10:12:08 CAN.py[line:66] INFO get_config_file_name() return : dev.cfg
+2020-08-29 10:12:08 CAN.py[line:192] INFO We have 57 nodes.
+2020-08-29 10:12:08 CAN.py[line:193] INFO We have 94 edges.
+2020-08-29 10:12:09 CAN.py[line:66] INFO get_config_file_name() return : dev.cfg
+2020-08-29 10:12:11 CAN.py[line:252] INFO Epoch 0 | Loss: 0.1717
+2020-08-29 10:12:13 CAN.py[line:252] INFO Epoch 1 | Loss: 0.1591
+2020-08-29 10:12:14 CAN.py[line:66] INFO get_config_file_name() return : dev.cfg
+2020-08-29 10:12:14 CAN.py[line:66] INFO get_config_file_name() return : dev.cfg
+2020-08-29 10:12:14 CAN.py[line:192] INFO We have 57 nodes.
+2020-08-29 10:12:14 CAN.py[line:193] INFO We have 94 edges.
+2020-08-29 10:12:14 CAN.py[line:66] INFO get_config_file_name() return : dev.cfg
+2020-08-29 10:12:17 CAN.py[line:252] INFO Epoch 0 | Loss: 0.1797
+2020-08-29 10:12:19 CAN.py[line:252] INFO Epoch 1 | Loss: 0.1614
+2020-08-29 10:12:20 CAN.py[line:66] INFO get_config_file_name() return : dev.cfg
+2020-08-29 10:12:20 CAN.py[line:66] INFO get_config_file_name() return : dev.cfg
+2020-08-29 10:12:20 CAN.py[line:192] INFO We have 57 nodes.
+2020-08-29 10:12:20 CAN.py[line:193] INFO We have 94 edges.
+2020-08-29 10:12:20 CAN.py[line:66] INFO get_config_file_name() return : dev.cfg
+2020-08-29 10:12:23 CAN.py[line:252] INFO Epoch 0 | Loss: 0.1711
+2020-08-29 10:12:25 CAN.py[line:252] INFO Epoch 1 | Loss: 0.1546

@@ -1,0 +1,7 @@
+dgl==0.5.0
+dgl-cu100==0.4.3.post2
+numpy==1.17.2
+torch==1.4.0
+torchvision==0.5.0
+python==3.7.6
+gcc==5.4.0
