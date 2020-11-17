@@ -19,9 +19,10 @@ fault_localization :./runall_CAN.sh
  3. Result
 faultStatementRank.txt(fault localization result with rank and Exam value)
 
- 4. EXAM score of adding randomness to the failure contexts compared with CAN
+ # Exam and time
+ 1. EXAM score of adding randomness to the failure contexts compared with CAN
 ![exam][1]
- 5. runtime
+ 2. runtime
 ![runtime][2]
 
 
