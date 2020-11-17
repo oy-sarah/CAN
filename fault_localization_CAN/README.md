@@ -10,11 +10,20 @@ source code:StdXMLParser.java
 buggy line:368 if (! XMLUtil.checkLiteral(this.reader, "CDATA")) 
 correct format:if (! XMLUtil.checkLiteral(this.reader, "CDATA["))
 
-3. Construct graph of nanoxml_v5
+ 1. Construct graph of nanoxml_v5
 we use dynamic backward slice, data and control dependence to construct a failure context, which is used to generate graph of nanoxml_v5. More technical details refer to constructing a failure context with dynamic backward slice, please check our previous paper XXX.
 
-4. Run fault localization project
+ 2. Run fault localization project
 fault_localization :./runall_CAN.sh
 
-5. Result
+ 3. Result
 faultStatementRank.txt(fault localization result with rank and Exam value)
+
+ 4. EXAM score of adding randomness to the failure contexts compared with CAN
+![exam][1]
+ 5. runtime
+![runtime][2]
+
+
+  [1]: https://raw.githubusercontent.com/oy-sarah/CAN-doc-source/master/images/exam.png
+  [2]: https://raw.githubusercontent.com/oy-sarah/CAN-doc-source/master/images/table.png
