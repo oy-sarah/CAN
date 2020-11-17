@@ -21,10 +21,6 @@ faultStatementRank.txt(fault localization result with rank and Exam value)
 
  # Exam and time
  1. EXAM score of adding randomness to the failure contexts compared with CAN
-![exam][1]
+![exam](https://raw.githubusercontent.com/oy-sarah/CAN-doc-source/master/images/exam.png)
  2. runtime
-![runtime][2]
-
-
-  [1]: https://raw.githubusercontent.com/oy-sarah/CAN-doc-source/master/images/exam.png
-  [2]: https://raw.githubusercontent.com/oy-sarah/CAN-doc-source/master/images/table.png
+![runtime](https://raw.githubusercontent.com/oy-sarah/CAN-doc-source/master/images/table.png)
