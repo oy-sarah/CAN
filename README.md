@@ -5,7 +5,7 @@ This is a demo for nanoxml_v5, fault 3.
 1. Requirements
 requirements.txt
 
-2.source code and buggy line
+2. source code and buggy line
 source code:StdXMLParser.java
 buggy line:368 if (! XMLUtil.checkLiteral(this.reader, "CDATA")) 
 correct format:if (! XMLUtil.checkLiteral(this.reader, "CDATA["))
@@ -18,3 +18,6 @@ fault_localization :./runall_CAN.sh
 
 5. Result
 faultStatementRank.txt(fault localization result with rank and Exam value)
+
+6. Datasets 
+chart, math, lang, and time are from Defects4J,http://defects4j.org. python, gzip and libtiff are collected from ManyBugs,http://repairbenchmarks.cs.umass.edu/ManyBugs/. space and the four separate releases of nanoxml are acquired from the SIR,http://sir.unl.edu/portal/index.php.
