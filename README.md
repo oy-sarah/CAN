@@ -5,7 +5,7 @@ This is a demo for nanoxml_v5, fault 3.
 1. Requirements:
 requirements.txt
 
-2. source code and buggy line:
+2. Source code and buggy line:
 source code:StdXMLParser.java
 buggy line:368 if (! XMLUtil.checkLiteral(this.reader, "CDATA")) 
 correct format:if (! XMLUtil.checkLiteral(this.reader, "CDATA["))
