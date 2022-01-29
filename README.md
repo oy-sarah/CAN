@@ -1,7 +1,7 @@
 # CAN
 A project of fault localization tool.
 This is a demo for nanoxml_v5, fault 3.
-# Usage
+## Usage
 1. Requirements:
 requirements.txt
 
@@ -22,7 +22,7 @@ faultStatementRank.txt(fault localization result with rank and Exam value)
 6. Datasets: 
 chart, math, lang, and time are from Defects4J,http://defects4j.org. python, gzip and libtiff are collected from ManyBugs,http://repairbenchmarks.cs.umass.edu/ManyBugs/. space and the four separate releases of nanoxml are acquired from the SIR,http://sir.unl.edu/portal/index.php.
 
-# Docker implementation
+## Docker implementation
 We also provide docker implementation
 ```shell
 docker pull zz8477/ubuntu18.04:CAN
